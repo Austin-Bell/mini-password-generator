@@ -3,14 +3,26 @@ import random
 
 chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890!@#$%^&*'
 
-length = input()
+print("==========Password Generator==========")
+
+length = input("Password length: ")
 length = int(length)
-for p in range(3):
+
+numPasswords = input("Number of passwords: ")
+numPasswords = int(numPasswords)
+
+
+print('\nhere are your passwords:')
+
+for pwd in range(numPasswords):
   # variable to store password
   password = ''
   for c in range(length):
-    # Add character to specified by number in range
-    password += random.choice(chars)
+	  
+	# Add character to specified by number in range
+	  password += random.choice(chars)
   
   # print characters from chars
   print(password)
+
+print("===============================")
