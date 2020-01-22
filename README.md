@@ -1,5 +1,5 @@
 # mini-password-generator
-![Password Generator](https://www.dropbox.com/s/pxz67pcu6uvvyc3/Screen%20Shot%202020-01-21%20at%204.49.17%20PM.png?dl=0)
+![Password Generator](https://uc43dd3398df3ef3272ccf5ee07b.previews.dropboxusercontent.com/p/thumb/AApPlsKaQmuboGQVpGAtnb6zJ9skN2IhUj5FnTInytkSAvvxNe3Sc4FS-vTVkCRYgsBFoEjriTUkiZLp2qLpSkC4qvzuTwyzqmfu2EksNcEApAMk9qNwGE-z39eMCC0tgH-13KkPuQTfmDbKM2hLQ9oLFWIdtOyLgxcVLKbkDoLo_NON7i5Q_rdnukGM0eIbjX2gi8aIwNRr19DQJBmfdh6O2CQT6EeRbwqpuIo3GCf3jwFXJl0BqY7ss_0fSo7SA_BtTb7MMLdORaD1TgoVffWFaVM6NllvMsvKDrrtJOEEFxRKfMKJpr3MFGkq_W_c8C1uBvnMESinCaYAO9BTv01h/p.png)
 
 Just a simple password generator using alphanumeric + symbols to generate passwords. You choose the length of the password
 as well as how many passwords you want.
